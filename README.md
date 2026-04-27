@@ -25,3 +25,17 @@ An AI-powered enterprise assistant integrating:
 
 ## Status
 Project in development.
+## Architecture
+
+User Query
+↓
+FastAPI Backend
+↓
+SQL Data + ML Prediction
+↓
+Insight Response
+
+## Future Improvements
+- LangChain agent integration
+- OpenAI LLM chatbot support
+- Streamlit interface
