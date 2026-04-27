@@ -17,6 +17,7 @@ An AI-powered enterprise assistant integrating:
 - SQLite
 - Pandas
 - Scikit-learn
+- LLM-ready architecture (LangChain/OpenAI extensible)
 
 ## Example Queries
 - Show department expenses
